@@ -1,6 +1,6 @@
 # Minimal Typst Resume
 
-This repository contains a simple Typst-based resume setup.
+This repository contains a super minimal Typst-based resume setup.
 
 ## Files
 
