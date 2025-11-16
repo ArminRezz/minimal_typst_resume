@@ -18,11 +18,9 @@ To generate a new PDF:
 ```bash
 typst compile main.typ
 ```
-<img width="987" height="1279" alt="Screenshot 2025-11-15 at 11 43 52 PM" src="https://github.com/user-attachments/assets/99ae9e11-bdc3-4239-953e-6b95fad7e76a" />
 
 <details>
   <summary>📷 Screenshot of Resume</summary>
-
-  ![Resume Screenshot](Screenshot-2025-11-15.png)
+  <img width="987" height="1279" alt="Screenshot 2025-11-15 at 11 43 52 PM" src="https://github.com/user-attachments/assets/99ae9e11-bdc3-4239-953e-6b95fad7e76a" />
 
 </details>
