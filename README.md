@@ -1,12 +1,19 @@
-main.pdf ---> resume in pdf format
-main.typ ---> main outline of resume
-resume.typ ---> basically the css of the resume
-refs.bib ---> publication references
+# Minimal Typst Resume
 
-In Lazyvim (neovim) I used the typst-preview.nvim plugin to see live updates of the document side by side.
+This repository contains a simple Typst-based resume setup.
 
-Use typst compile main.typ to generate a new main.pdf
+## Files
 
-I made this ultra simple because it is all that is needed.
+- **`main.pdf`** – The compiled PDF version of the resume.  
+- **`main.typ`** – The main Typst file outlining your resume structure.  
+- **`resume.typ`** – The styling/CSS-like file that controls the resume’s appearance.  
+- **`refs.bib`** – Bibliography file for your publication references.
 
-Enjoy!
+## Usage
+
+In **LazyVim (Neovim)**, I use the `typst-preview.nvim` plugin to see live updates side by side.  
+
+To generate a new PDF:
+
+```bash
+typst compile main.typ
