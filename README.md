@@ -17,3 +17,5 @@ To generate a new PDF:
 
 ```bash
 typst compile main.typ
+
+[main.pdf](https://github.com/user-attachments/files/23565810/main.pdf)
