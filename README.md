@@ -18,4 +18,5 @@ To generate a new PDF:
 ```bash
 typst compile main.typ
 
-[main.pdf](https://github.com/user-attachments/files/23565810/main.pdf)
+<img width="987" height="1278" alt="Screenshot 2025-11-15 at 11 42 17 PM" src="https://github.com/user-attachments/assets/6337aefa-b7fe-413a-ac40-9c7f9d71382c" />
+
