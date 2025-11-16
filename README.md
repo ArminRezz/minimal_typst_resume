@@ -1,4 +1,4 @@
-# Minimal Typst Resume
+Typst Resume
 
 This repository contains a super minimal Typst-based resume setup.
 
@@ -17,6 +17,5 @@ To generate a new PDF:
 
 ```bash
 typst compile main.typ
-
-<img width="987" height="1278" alt="Screenshot 2025-11-15 at 11 42 17 PM" src="https://github.com/user-attachments/assets/6337aefa-b7fe-413a-ac40-9c7f9d71382c" />
-
+```
+<img width="987" height="1279" alt="Screenshot 2025-11-15 at 11 43 52 PM" src="https://github.com/user-attachments/assets/99ae9e11-bdc3-4239-953e-6b95fad7e76a" />
