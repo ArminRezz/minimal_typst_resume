@@ -19,8 +19,8 @@ To generate a new PDF:
 typst compile main.typ
 ```
 
-<details>
+<!-- <details>
   <summary>📷 Screenshot of Resume</summary>
   <img width="987" height="1279" alt="Screenshot 2025-11-15 at 11 43 52 PM" src="https://github.com/user-attachments/assets/99ae9e11-bdc3-4239-953e-6b95fad7e76a" />
 
-</details>
+</details> -->
